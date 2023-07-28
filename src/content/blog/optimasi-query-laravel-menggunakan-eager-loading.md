@@ -1,7 +1,7 @@
 ---
 title: Optimasi Query Laravel Menggunakan Eager Loading
 author: Andreas Asatera
-pubDatetime: 2023-03-04T00:00:00+07:00
+pubDatetime: 2023-04-15T00:00:00+07:00
 postSlug: optimasi-query-laravel-menggunakan-eager-loading
 featured: false
 draft: false
